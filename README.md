@@ -1,4 +1,4 @@
-Ballerina WebSub Library
+Ballerina WebSub Library - Kasthurir main branch
 ===================
 
   [![Build](https://github.com/ballerina-platform/module-ballerina-websub/actions/workflows/build-timestamped-master.yml/badge.svg)](https://github.com/ballerina-platform/module-ballerina-websub/actions/workflows/build-timestamped-master.yml)
