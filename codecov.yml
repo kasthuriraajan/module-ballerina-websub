@@ -1,8 +1,8 @@
-codecov:
-  require_ci_to_pass: no
-
-fixes:
-  - "ballerina/websub/*/::websub-ballerina/"
-
-ignore:
-  - "**/tests"
+coverage:
+    precision: 2
+    round: down
+    range: "60...80"
+    status:
+        project:
+            default:
+                target: 80
